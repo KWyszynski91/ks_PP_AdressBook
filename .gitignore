@@ -1,0 +1,5 @@
+bin/
+obj/
+ks_PP_AdressBook.*
+Users.txt
+Recipients.txt
